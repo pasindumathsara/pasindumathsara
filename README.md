@@ -8,10 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasindumathsara&label=Profile%20views&color=0e75b6&style=flat" alt="pasindumathsara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindumathsara" alt="pasindumathsara" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **BSc (Hons) in Software Engineering | Undergraduate at CINEC Campus**
 
 - 💬 Ask me about **Programming**
@@ -19,6 +15,12 @@
 - 📫 How to reach me **pasinduuni23@gmail.com**
 
 - ⚡ Fun fact **call me as Pasindu**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindumathsara" alt="pasindumathsara" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
