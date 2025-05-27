@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pasindu Mathsara Weerasekara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <p align="center">
+  <img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=Cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Web+Developer;Mobile+App+Developer;Front-End+Developer;UI-UX+Designer;Active+Learner/Researcher;"></a>
 </p>
 
-<img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasindumathsara&label=Profile%20views&color=0e75b6&style=flat" alt="pasindumathsara" /> </p>
 
