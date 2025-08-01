@@ -44,4 +44,3 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindumathsara&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pasindumathsara&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
-i want to design it modern and beautiful
